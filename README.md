@@ -1,11 +1,20 @@
-# Port Status Checker
+# Advanced Port Scanner
 
-A Python project that checks whether a specific port is open or closed on a target system.
+## Description
+An advanced Python-based port scanner that checks whether ports on a target system are open or closed using socket programming.
 
 ## Features
-- Checks TCP ports
-- Uses socket programming
-- Accepts domain or IP address
+- Single port scanning
+- Multiple common port scanning
+- Detects service names
+- Displays scan completion time
+- Error handling included
+- Beginner-friendly cybersecurity tool
+
+## Technologies Used
+- Python
+- Socket Programming
+- Networking Concepts
 
 ## How to Run
 
